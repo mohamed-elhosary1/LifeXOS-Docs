@@ -52,6 +52,8 @@ LifeXOS acts as an operating system for your daily life. It unifies scattered pr
 ---
 
 ## Quick Links
+- **[Official Website](https://lifexos.vercel.app/)** - Access the LifeXOS platform.
+- **[Instagram](https://www.instagram.com/lifexos.app/)** - Follow us for updates and tips.
 - **[Bug Reports](.github/ISSUE_TEMPLATE/bug_report.md)** - Found a bug? Let us know.
 - **[Feature Requests](.github/ISSUE_TEMPLATE/feature_request.md)** - Have an idea? Share it.
 - **[Privacy Policy](PRIVACY_POLICY.md)** - How we handle your data.
