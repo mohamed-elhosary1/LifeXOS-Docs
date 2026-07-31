@@ -59,9 +59,6 @@ LifeXOS acts as an operating system for your daily life. It unifies scattered pr
 - **[Privacy Policy](PRIVACY_POLICY.md)** - How we handle your data.
 - **[Terms of Service](TERMS_OF_SERVICE.md)** - Usage rules and guidelines.
 
-## Screenshots
-*(Add screenshots of LifeXOS features here)*
-
 ---
 
 ## Contributing
